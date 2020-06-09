@@ -36,7 +36,7 @@ const words = [
   'japan',
   'amazon',
   'tutorial',
-  'acive',
+  'active',
   'mobile',
   'casuality',
   'India',
